@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "mod": { "version": "0.0.0", "url": "", "sha256": "" },
+  "forge": { "version": "1.8.9-11.15.1.2318-1.8.9", "url": "" },
+  "server": { "host": "play.aitofactions.com", "port": 25565 }
+}
