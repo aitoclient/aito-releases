@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.5",
-  "publishedAt": "2026-04-23T13:18:47Z",
+  "version": "1.0.6",
+  "publishedAt": "2026-04-23T21:42:34Z",
   "assets": {
     "windows": {
-      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.5-windows.jar",
-      "sha256": "05af7d9c309e2a1001cc4f816d7188a414b4a7fa6f8aa6ed09e0308a58e168fb",
-      "size": 59603563
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.6-windows.jar",
+      "sha256": "53a03eba2faa360b073a0fdad2ba3b7ce01db5b57d634295e4572807d1ef9e78",
+      "size": 59607000
     },
     "mac": {
-      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.5-mac.jar",
-      "sha256": "59b852c0e45a1dc591cc2fdfe7ef4ea22cf03a20df73ce9f6f29986e2e53ec48",
-      "size": 58540730
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.6-mac.jar",
+      "sha256": "e4cab5f47908df7f10a654aa4dc8c27c4a5abc6fa35dbb61af8519f18212de56",
+      "size": 58544132
     },
     "linux": {
-      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.5-linux.jar",
-      "sha256": "90ad31499a7879cf030d06db38a63781c2640478ee72c867c18f7b444af573ca",
-      "size": 59370491
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-1.0.6-linux.jar",
+      "sha256": "3c1758b402c0ac6393466e1c59eb03be3e5f0a1f46835a753ccc2190c01e24a3",
+      "size": 59373836
     }
   }
 }
