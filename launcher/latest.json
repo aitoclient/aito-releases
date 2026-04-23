@@ -1,4 +1,22 @@
 {
-  "version": "0.0.0",
-  "assets": []
+  "schemaVersion": 1,
+  "version": "0.0.1-test",
+  "publishedAt": "2026-04-23T04:55:36Z",
+  "assets": {
+    "windows": {
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-0.0.1-test-windows.jar",
+      "sha256": "b2fd80518968f3f07a4ec7ec9beb27bce2c6e377222be0bb1f4fee545fa31c85",
+      "size": 560222
+    },
+    "mac": {
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-0.0.1-test-mac.jar",
+      "sha256": "7204bbce833df0f0987896863fa0ca1d09bc0966000908fb6c17a040f0ef2d7b",
+      "size": 559845
+    },
+    "linux": {
+      "url": "https://aitoclient.github.io/aito-releases/launcher/AitoLauncher-0.0.1-test-linux.jar",
+      "sha256": "9292a55ad2c5d9cf78472f6f6d2e3015e4585b3e824c742d28c96e3081b16a71",
+      "size": 559845
+    }
+  }
 }
