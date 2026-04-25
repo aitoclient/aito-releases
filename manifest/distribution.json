@@ -1,6 +1,19 @@
 {
   "schemaVersion": 1,
-  "mod": { "version": "0.0.0", "url": "", "sha256": "" },
-  "forge": { "version": "1.8.9-11.15.1.2318-1.8.9", "url": "" },
-  "server": { "host": "play.aitofactions.com", "port": 25565 }
+  "channel": "stable",
+  "publishedAt": "2026-04-25T20:31:43Z",
+  "mod": {
+    "id": "aitoclient",
+    "version": "1.0.0",
+    "url": "https://aitoclient.github.io/aito-releases/mod/aitoclient-1.0.0.jar",
+    "sha256": "5ed16daf99acf08761d93601e27b5da104b45bc2965d71482804f809419a89df",
+    "size": 11007181
+  },
+  "forge": {
+    "version": "1.8.9-11.15.1.2318",
+    "installerUrl": "",
+    "sha256": ""
+  },
+  "server": { "host": "play.aitofactions.com", "port": 25565 },
+  "changelog": []
 }
