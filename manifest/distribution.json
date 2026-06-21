@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "publishedAt": "2026-06-21T04:25:01Z",
+  "publishedAt": "2026-06-21T04:48:02Z",
   "mod": {
     "id": "aitoclient",
-    "version": "1.0.13",
-    "url": "https://aitoclient.github.io/aito-releases/mod/aitoclient-1.0.13.jar",
-    "sha256": "14a6af9ba50301d8460ecba05e88f226e32fd9c4e8b6ef37db997ad0ac17fd44",
-    "size": 10841649
+    "version": "1.0.14",
+    "url": "https://aitoclient.github.io/aito-releases/mod/aitoclient-1.0.14.jar",
+    "sha256": "a9b122f6335155f3003719628653047872d74650ce5eae3650756c4722d90da9",
+    "size": 10842727
   },
   "forge": {
     "version": "1.8.9-11.15.1.2318",
